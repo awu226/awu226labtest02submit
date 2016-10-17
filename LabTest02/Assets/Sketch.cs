@@ -82,7 +82,7 @@ public class Sketch : MonoBehaviour {
 
 				TreeSurvey[] treesurveys = JsonReader.Deserialize<TreeSurvey[]>(jsonResponse);
 				GameObject newCube = (GameObject)Instantiate(cube, new Vector3(hitdata.point.x, hitdata.point.y, hitdata.point.z), Quaternion.identity);
-				newCube.GetComponentInChildren<TextMesh> ().text= "(" + treesurveys[index-1].Location + ", " + treesurveys[index-1].Y + ", " + treesurveys[index-1].Z + ")";
+				newCube.GetComponentInChildren<TextMesh> ().text= "(" + treesurveys[index-1].TreeID + ", " + treesurveys[index-1].Location + ", " + treesurveys[index-1].EcologicalValue + ")";
 			}
 
 		}
