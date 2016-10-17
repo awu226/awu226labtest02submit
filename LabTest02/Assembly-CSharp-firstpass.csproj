@@ -6,7 +6,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{B4B1C198-91C6-F2FF-3E2B-31B56F435E06}</ProjectGuid>
+    <ProjectGuid>{F86B47F7-8543-3608-D67B-54338BBFC369}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp-firstpass</AssemblyName>
@@ -219,7 +219,7 @@
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
  </Reference>
  <Reference Include="Pathfinding.JsonFx">
- <HintPath>/Users/user/Desktop/INFOSYS 320/PracticeLabTest2/Assets/Pathfinding.JsonFx.dll</HintPath>
+ <HintPath>/Users/user/awu226labtest02submit/LabTest02/Assets/Pathfinding.JsonFx.dll</HintPath>
  </Reference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

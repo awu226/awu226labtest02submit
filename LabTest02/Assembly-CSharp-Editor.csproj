@@ -6,7 +6,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{8B70B5B2-8063-1E46-F9E6-FE250B5F5F01}</ProjectGuid>
+    <ProjectGuid>{A04595BF-B48A-27D4-F84B-BD3C7582C7DE}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp-Editor</AssemblyName>
@@ -165,7 +165,7 @@
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/TreeEditor/Editor/UnityEditor.TreeEditor.dll</HintPath>
  </Reference>
  <Reference Include="Pathfinding.JsonFx">
- <HintPath>/Users/user/Desktop/INFOSYS 320/PracticeLabTest2/Assets/Pathfinding.JsonFx.dll</HintPath>
+ <HintPath>/Users/user/awu226labtest02submit/LabTest02/Assets/Pathfinding.JsonFx.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.Graphs">
  <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEditor.Graphs.dll</HintPath>
@@ -179,9 +179,9 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
-      <Project>{B4B1C198-91C6-F2FF-3E2B-31B56F435E06}</Project>      <Name>Assembly-CSharp-firstpass</Name>    </ProjectReference>
+      <Project>{F86B47F7-8543-3608-D67B-54338BBFC369}</Project>      <Name>Assembly-CSharp-firstpass</Name>    </ProjectReference>
     <ProjectReference Include="Assembly-CSharp.csproj">
-      <Project>{8D36A2EA-B451-E3E3-8C78-D5CBB50629D0}</Project>      <Name>Assembly-CSharp</Name>    </ProjectReference>
+      <Project>{B83C9EA7-23BB-3872-157D-B67D558738CE}</Project>      <Name>Assembly-CSharp</Name>    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

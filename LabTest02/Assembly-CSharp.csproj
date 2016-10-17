@@ -6,7 +6,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{8D36A2EA-B451-E3E3-8C78-D5CBB50629D0}</ProjectGuid>
+    <ProjectGuid>{B83C9EA7-23BB-3872-157D-B67D558738CE}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -53,7 +53,7 @@
      <Compile Include="Assets\SampleScenes\Scripts\SlowMoButton.cs" />
      <Compile Include="Assets\Script1.cs" />
      <Compile Include="Assets\Sketch.cs" />
-     <Compile Include="Assets\Water.cs" />
+     <Compile Include="Assets\Tree.cs" />
      <Compile Include="Assets\WebRequest.cs" />
      <Compile Include="Assets\mySphereScript.cs" />
      <None Include="Assets\Standard Assets\Effects\GlassRefraction\Shaders\GlassStainedBumpDistort.shader" />
@@ -143,12 +143,12 @@
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
  </Reference>
  <Reference Include="Pathfinding.JsonFx">
- <HintPath>/Users/user/Desktop/INFOSYS 320/PracticeLabTest2/Assets/Pathfinding.JsonFx.dll</HintPath>
+ <HintPath>/Users/user/awu226labtest02submit/LabTest02/Assets/Pathfinding.JsonFx.dll</HintPath>
  </Reference>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
-      <Project>{B4B1C198-91C6-F2FF-3E2B-31B56F435E06}</Project>      <Name>Assembly-CSharp-firstpass</Name>    </ProjectReference>
+      <Project>{F86B47F7-8543-3608-D67B-54338BBFC369}</Project>      <Name>Assembly-CSharp-firstpass</Name>    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
